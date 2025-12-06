@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sumit Kumar</h1>
-<h3 align="center">B.Sc. (Hons) Statistics with Computer Science | Data Analytics Learner | I.Sc. BHU</h3>
+<h3 align="center">B.Sc. (Hons) Statistics with Computer Science | Data Science Learner | I.Sc. BHU</h3>
 
 ---
 
